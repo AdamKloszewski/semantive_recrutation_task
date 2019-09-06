@@ -1,2 +1,8 @@
 
+<<<<<<< HEAD
 przesuń to wszystko na dół
+=======
+no i co teraz... to ma iść na górę... a te zmiany, bo były wcześniej daj na gół
+
+a w drugim branczu wywalimy wszystko i napiszemy "przesuń mnie na dół" - to teraz to zróbmy
+>>>>>>> iss54
