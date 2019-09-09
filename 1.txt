@@ -14,3 +14,7 @@ to jest moja poprawka adresu email niby
 przesuń to wszystko na dół
 
 -i
+
+staszek
+
+edytowane po stashowaniu
