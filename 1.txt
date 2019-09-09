@@ -16,3 +16,5 @@ przesuń to wszystko na dół
 -i
 
 edytowane po stashowaniu
+
+i po ponownym

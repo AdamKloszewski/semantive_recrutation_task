@@ -1,4 +1,4 @@
 Hello world!
-bleb
+i po ponownym
 
 edytowane po stashowaniu
