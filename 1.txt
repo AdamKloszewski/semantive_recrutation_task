@@ -16,3 +16,5 @@ przesuń to wszystko na dół
 -i
 
 staszek
+
+edytowane po stashowaniu
