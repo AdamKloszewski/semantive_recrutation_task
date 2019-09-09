@@ -15,6 +15,6 @@ przesuń to wszystko na dół
 
 -i
 
-staszek
-
 edytowane po stashowaniu
+
+No to jeszcze tutaj... hehehe
