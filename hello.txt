@@ -1,4 +1,5 @@
 Hello world!
+
 i po ponownym
 
 co tutaj się odpierdoliło?!
@@ -9,3 +10,6 @@ postkdjflkasjj
 
 edytowane po stashowaniu
 
+i po ponownym
+
+edytowane po stashowaniu
